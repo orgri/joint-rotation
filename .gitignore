@@ -1,3 +1,10 @@
+# Folders
+.DS_Store
+Debug
+Release
+output
+
+
 # Prerequisites
 *.d
 
